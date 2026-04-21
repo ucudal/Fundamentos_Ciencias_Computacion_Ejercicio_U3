@@ -4,12 +4,12 @@
 
 - `git clone <url-o-ruta>`: copia el repositorio.
 - `git status`: muestra estado de archivos y rama.
+- Ctrl + S : permite seleccionar los cambios para luego guardarlos.
 
 ## Sección B - Guardar cambios
-
 - `git add <archivo>`: prepara archivo para commit.
 - `git commit -m "mensaje"`: guarda un punto de avance.
-
+- git push: envia los cambios desde mi computadora al servidor en internet.
 ## Sección C - Revisar historial y diferencias
 
 - `git log --oneline`: historial resumido.
