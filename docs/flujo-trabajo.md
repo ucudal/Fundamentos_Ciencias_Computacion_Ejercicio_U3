@@ -10,6 +10,7 @@
 6. Agregar con `git add`.
 7. Confirmar con `git commit`.
 8. Integrar con `git merge`.
+HOLA HOLA HOLA
 
 ## Acuerdos de edición
 
