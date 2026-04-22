@@ -18,7 +18,8 @@
 ## Sección D - Ramas e integración
 
 - `git branch`: lista ramas.
-- `git checkout -b <rama>`: crea y cambia a nueva rama.
+- `git branch <rama>`: crea nueva rama.
+- `git checkout <rama>`: cambia a rama.
 - `git merge <rama>`: integra cambios de otra rama.
 
 ## Sección E - Corrección de errores
