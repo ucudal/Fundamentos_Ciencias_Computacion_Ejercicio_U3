@@ -2,14 +2,18 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. ____________________ | ____________________ | ____________________
-2. ____________________ | ____________________ | ____________________
-3. ____________________ | ____________________ | ____________________
-4. ____________________ | ____________________ | ____________________
-5. ____________________ | ____________________ | ____________________
+
+1. Valentina Hernandez  | Auditor              | Aprender Git
+2. Juan Manuel Trujillo | Integrador           | Aprender Git
+3. Juan Mauber          | Desarrollador        | Aprender Git
+4. Constanza Cabanas    | Desarrollador        | Aprender Git
+5. Belen Cabrera        | Desarrollador        | Aprender Git
+6. Maria Grazia         | Editora              | Aprender Git
+7. Rafael Reyes         | Desarrollador        | Aprender Git
 
 # Roles sugeridos:
 # - Integrador/a
 # - Auditor/a
 # - Desarrollador/a
 # - Coordinador/a (opcional)
+

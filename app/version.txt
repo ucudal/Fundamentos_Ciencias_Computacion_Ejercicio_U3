@@ -1,1 +1,1 @@
-version_actual=0.1.0
+version_actual=0.3.0
