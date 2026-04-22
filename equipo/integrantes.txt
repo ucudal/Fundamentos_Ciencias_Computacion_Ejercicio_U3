@@ -1,6 +1,5 @@
-# Plantilla de equipo
-# Completar una línea por integrante.
-# Formato: Nombre completo | Rol | Interés en la materia
+## Plantilla de equipo
+
 
 
 1. Valentina Hernandez  | Auditor              | Aprender Git
@@ -11,9 +10,5 @@
 6. Maria Grazia         | Editora              | Aprender Git
 7. Rafael Reyes         | Desarrollador        | Aprender Git
 
-# Roles sugeridos:
-# - Integrador/a
-# - Auditor/a
-# - Desarrollador/a
-# - Coordinador/a (opcional)
+
 
