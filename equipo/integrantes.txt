@@ -4,13 +4,12 @@
 
 1. Matias Fadel | Coordinador | IA
 2. Joaquin Cabezas| Desarrollador| Informatica
-3. Gabriel Mederos | Auditor | ____________________
-4. Nicolas Gobbo | Integrador | Inteligencia Artificial
-5. Gabriel Mederos | Detonador | Inteligenccia artificial
+3. Gabriel Mederos | Auditor | IA
+4. Nicolas Gobbo | Integrador | IA
+5. ____________________ | ____________________ | ____________________
 
 # Roles sugeridos:
 # - Integrador/a
 # - Auditor/a
 # - Desarrollador/a
 # - Coordinador/a (opcional)
-hola papos
