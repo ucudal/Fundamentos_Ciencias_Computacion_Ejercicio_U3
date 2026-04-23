@@ -6,7 +6,7 @@
 2. Joaquin Cabezas| Desarrollador| Informatica
 3. Gabriel Mederos | Auditor | IA
 4. Nicolas Gobbo | Integrador | IA
-5. ____________________ | ____________________ | ____________________
+5. Matias Hernandez | Desarrollador | Informatica
 
 # Roles sugeridos:
 # - Integrador/a
