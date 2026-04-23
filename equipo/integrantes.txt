@@ -5,11 +5,7 @@
 1. Matias Fadel | Coordinador | IA
 2. Joaquin Cabezas| Desarrollador| Informatica
 3. Gabriel Mederos | Auditor | IA
-<<<<<<< HEAD
 4. Nicolas Gobbo | Integrador | IA
-=======
-4. ____________________ | ____________________ | ____________________
->>>>>>> 9f86f1ab837a533ec947fa8efd807da09139e8d7
 5. ____________________ | ____________________ | ____________________
 
 # Roles sugeridos:
@@ -17,7 +13,3 @@
 # - Auditor/a
 # - Desarrollador/a
 # - Coordinador/a (opcional)
-<<<<<<< HEAD
-=======
-
->>>>>>> 9f86f1ab837a533ec947fa8efd807da09139e8d7
