@@ -2,9 +2,9 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. ____________________ | ____________________ | ____________________
+1. Matias Fadel | Coordinador | IA
 2. Joaquin Cabezas| Desarrollador| Informatica
-3. ____________________ | ____________________ | ____________________
+3. Gabriel Mederos | Auditor | ____________________
 4. ____________________ | ____________________ | ____________________
 5. Gabriel Mederos | Detonador | Inteligenccia artificial
 
