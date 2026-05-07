@@ -1,7 +1,6 @@
 ## Plantilla de equipo
 
 
-
 1. Valentina Hernandez  | Auditor              | Aprender Git
 2. Juan Manuel Trujillo | Integrador           | Aprender Git
 3. Juan Mauber          | Desarrollador        | Aprender Git
