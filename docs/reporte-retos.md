@@ -16,13 +16,13 @@ Fecha: 21/04/2026
 ## Reto 1
 
 ### Comandos usados
-control +s 
-git romote -v
-git status
-git add equipo/integrantes.txt
-git commit -m "Reto 1: Valentina Hernandez"
-git checkout main
-git push
+- control +s 
+- git romote -v
+- git status
+- git add equipo/integrantes.txt
+- git commit -m "Reto 1: Valentina Hernandez"
+- git checkout main
+- git push
 
 
 ### Decisiones
